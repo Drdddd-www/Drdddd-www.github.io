@@ -25,20 +25,89 @@
       </tags>
   </entry>
   <entry>
-    <title>云计算第三章作业</title>
+    <title>云计算第三章-作业1</title>
     <url>/2022/03/12/%E4%BA%91%E8%AE%A1%E7%AE%97%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<h3 id="云使能技术主要包括哪些技术组件？简要说明其关键特征。"><a href="#云使能技术主要包括哪些技术组件？简要说明其关键特征。" class="headerlink" title="云使能技术主要包括哪些技术组件？简要说明其关键特征。"></a>云使能技术主要包括哪些技术组件？简要说明其关键特征。</h3><h4 id="技术组件："><a href="#技术组件：" class="headerlink" title="技术组件："></a>技术组件：</h4><p>宽带网络和Internet架构、数据中心技术、虚拟化技术、Web技术、多租户技术、服务技术</p>
-<h4 id="关键特征："><a href="#关键特征：" class="headerlink" title="关键特征："></a>关键特征：</h4><p>所有的云必须连接到网络，同时利用数据中心技术集中存放IT资源，应用虚拟化技术将物理IT资源转换为虚拟IT资源，从而提供了硬件无关性、服务器整合、资源复制、对资源更强的支持和可扩展性；使用Web技术作为云服务的实现介值和管理接口；设计多租户技术使多个用户在逻辑上同时访问一个应用；其中的服务技术是云计算的基石，形成了“作为服务”的云交付模型的基础。</p>
-<h3 id="列举至少3种虚拟化软件，并概括其特点。"><a href="#列举至少3种虚拟化软件，并概括其特点。" class="headerlink" title="列举至少3种虚拟化软件，并概括其特点。"></a>列举至少3种虚拟化软件，并概括其特点。</h3><h4 id="VMware-ESXi："><a href="#VMware-ESXi：" class="headerlink" title="VMware ESXi："></a>VMware ESXi：</h4><p>侧重于服务器虚拟化，技术较成熟，功能也多，支持虚机系统多；</p>
-<h4 id="Xenserver："><a href="#Xenserver：" class="headerlink" title="Xenserver："></a>Xenserver：</h4><p>重点在于桌面虚拟化，性价比高，网络性能好，适用于快速与大规模部署，支持系统也相对较多；</p>
-<h4 id="Hype-V："><a href="#Hype-V：" class="headerlink" title="Hype-V："></a>Hype-V：</h4><p>微软开发，起步相对较晚，对于MS的系统较为支持。</p>
-<h4 id="Oracle-VM-VirtualBox-："><a href="#Oracle-VM-VirtualBox-：" class="headerlink" title="Oracle VM VirtualBox ："></a>Oracle VM VirtualBox ：</h4><p>开源，支持的系统种类繁多。</p>
+    <content><![CDATA[<h4 id="云使能技术主要包括哪些技术组件？简要说明其关键特征。"><a href="#云使能技术主要包括哪些技术组件？简要说明其关键特征。" class="headerlink" title="云使能技术主要包括哪些技术组件？简要说明其关键特征。"></a>云使能技术主要包括哪些技术组件？简要说明其关键特征。</h4><h5 id="技术组件："><a href="#技术组件：" class="headerlink" title="技术组件："></a>技术组件：</h5><p>宽带网络和Internet架构、数据中心技术、虚拟化技术、Web技术、多租户技术、服务技术</p>
+<h5 id="关键特征："><a href="#关键特征：" class="headerlink" title="关键特征："></a>关键特征：</h5><ul>
+<li>宽带网络和Internet架构：云计算的基石，所有的云必须通过宽带网络和Internet架构连接到因特网。</li>
+<li>数据中心技术：集中存放IT资源；</li>
+<li>虚拟化技术：将物理IT资源转换为虚拟IT资源，从而提供了硬件无关性、服务器整合、资源复制、对资源更强的支持和可扩展性；</li>
+<li>Web技术：云服务的实现介质和管理接口；</li>
+<li>多租户技术：使多个用户在逻辑上可以同时访问一个应用；</li>
+<li>服务技术：云计算的基石，形成了“作为服务”的云交付模型的基础。</li>
+</ul>
+<hr>
+<h4 id="列举至少3种虚拟化软件，并概括其特点。"><a href="#列举至少3种虚拟化软件，并概括其特点。" class="headerlink" title="列举至少3种虚拟化软件，并概括其特点。"></a>列举至少3种虚拟化软件，并概括其特点。</h4><ul>
+<li>VMware ESXi：侧重于服务器虚拟化，技术较成熟，功能也多，支持虚机系统多；</li>
+<li>Xenserver：重点在于桌面虚拟化，性价比高，网络性能好，适用于快速与大规模部署，支持系统也相对较多；</li>
+<li>Hype-V：微软开发，起步相对较晚，对于MS的系统较为支持。</li>
+<li>Oracle VM VirtualBox ：开源，支持的系统种类繁多。</li>
+</ul>
 ]]></content>
       <categories>
-        <category>作业</category>
+        <category>云计算作业</category>
       </categories>
       <tags>
-        <tag>第三章作业</tag>
+        <tag>第三章-作业1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>云计算第四章-作业2</title>
+    <url>/2022/03/21/%E4%BA%91%E8%AE%A1%E7%AE%97%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<h2 id="威胁作用者"><a href="#威胁作用者" class="headerlink" title="威胁作用者"></a>威胁作用者</h2><h3 id="列举威胁作用者有哪些，并简要说明。"><a href="#列举威胁作用者有哪些，并简要说明。" class="headerlink" title="列举威胁作用者有哪些，并简要说明。"></a>列举威胁作用者有哪些，并简要说明。</h3><blockquote>
+<p>首先，明确威胁作用者的定义。</p>
+</blockquote>
+<h4 id="定义："><a href="#定义：" class="headerlink" title="定义："></a>定义：</h4><p>威胁作用者(threat agent)：是引发威胁的实体，因为它能够实施攻击。一般可以以内部&#x2F;外部、人&#x2F;软件程序分类。</p>
+<blockquote>
+<p>回答主体</p>
+</blockquote>
+<h4 id="一般威胁作用者及其作用"><a href="#一般威胁作用者及其作用" class="headerlink" title="一般威胁作用者及其作用"></a>一般威胁作用者及其作用</h4><ol>
+<li><strong>匿名攻击者(anonymous attacker)：是云中没有权限、不被信任的云服务用户。</strong><br>它通常是一个外部软件程序，通过公网发动网络攻击。<br>当匿名攻击者对安全策略和防护所知有限时，会抑制他们形成有效攻击的能力<br>匿名攻击者往往诉诸绕过用户账号或窃取用户证书的手段，同时使用能确保匿名性或需要大量资源才能被检举的方法。</li>
+<li><strong>恶意服务实施者(malicious service agent)：能截取并转发云内的网络流量。</strong><br>它通常是带有被损害的或恶意逻辑的服务代理（或伪装成服务代理的程序）。<br>也可能是能够远程截取并破坏消息内容的外部程序。</li>
+<li><strong>授信的攻击者(trusted attacker)：又称恶意租户(malicious tenant)，与同一云环境中的云用户共享IT资源，试图利用合法的证书来把云提供者、以及与他们共享IT资源的云租户作为攻击目标。</strong><br>通过滥用合法证书、挪用敏感和保密信息，在云的信任边界内部发动攻击。<br>恶意租户能够使用基于云的IT资源做很多非法之用，包括非法入侵认证薄弱的进程、破解加密、往电子邮件账号发送垃圾邮件、发起拒绝服务等常见的攻击等。</li>
+<li><strong>恶意的内部人员(malicious insider)：是人为的威胁作用者，他们的行为代表云提供者，或者与之有关。</strong><br>他们通常是现任或前任雇员，或是能够访问云提供者资源范围的第三方。<br>这种类型的威胁作用者会带来极大的破坏可能性，因为恶意的内部人员可能拥有访问云用户IT资源的管理特权。</li>
+</ol>
+<blockquote>
+<p>可以分别用一句话总结为</p>
+</blockquote>
+<ul>
+<li>匿名攻击者是不被信任的威胁作用者，通常试图从云边界的外部进行攻击</li>
+<li>恶意服务作用者截取网络通信，试图恶意地使用或篡改数据。</li>
+<li>授信的攻击者是经过授权的云服务用户，具有合法的证书，他们会使用这些证书来访问基于云的IT资源或攻击其他资源。</li>
+<li>恶意的内部人员是试图滥用对云资源范围的访问特权的人。</li>
+</ul>
+<hr>
+<h2 id="云安全威胁"><a href="#云安全威胁" class="headerlink" title="云安全威胁"></a>云安全威胁</h2><h3 id="列举云安全威胁有哪些，并简要说明。"><a href="#列举云安全威胁有哪些，并简要说明。" class="headerlink" title="列举云安全威胁有哪些，并简要说明。"></a>列举云安全威胁有哪些，并简要说明。</h3><blockquote>
+<p>首先，明确云安全威胁的定义。</p>
+</blockquote>
+<h4 id="定义：-1"><a href="#定义：-1" class="headerlink" title="定义："></a>定义：</h4><p>云安全威胁：云安全定义为保护基于云的数据和系统的所有方面。而云安全威胁是指一切可能对云安全产生破坏的威胁情况。</p>
+<blockquote>
+<p>回答主体</p>
+</blockquote>
+<h4 id="一般云安全威胁及其特性"><a href="#一般云安全威胁及其特性" class="headerlink" title="一般云安全威胁及其特性"></a>一般云安全威胁及其特性</h4><ol>
+<li><strong>流量窃听(traffic eavesdropping)：指当数据在传输到云中或在云内部传输时（通常是从云用户到云提供者），被恶意的服务作用者被动地截获，用于非法的信息收集，破坏保密性。</strong><br>由于这种攻击被动的性质，其更容易长时间进行而不被发现。</li>
+<li><strong>恶意媒介(malicious intermediate)：是指消息被恶意服务作用者截获并篡改，因此可能会破坏消息的保密性和完整性。</strong><br>它还有可能在把消息转发到目的地之前插入有害数据。</li>
+<li><strong>拒绝服务(DoS)：攻击的目标是使IT资源过载至无法正确运行，发起形式包括：</strong><br>云服务上的负载由于伪造的消息或重复的通信请求不正常的增加。<br>网络流量过载，降低了响应性，性能下降。<br>发出多个云服务请求，每个请求都设计成消耗过量的内存和处理资源。</li>
+<li><strong>授权不足：是指错误的授予了攻击者访问权限，或是授权太宽泛，导致攻击者能够访问本应该受到保护的IT资源。</strong><br>这种攻击的一种变种称为弱认证(weak authentication)，如果用弱密码或共享账户来保护IT资源，就可能导致这种攻击。</li>
+<li><strong>虚拟化攻击(Virtualization attack)：利用虚拟化平台的漏洞来危害虚拟化平台的保密性、完整性和可用性。</strong></li>
+<li><strong>信任边界重叠：如果云中的物理IT资源是由不同的云服务共享的，那么这些云服务用户的信任边界是重叠的。恶意的云服务用户可以把目标设定为共享的IT资源，意图损害其他共享同样信任边界的云服务用户或IT资源。</strong></li>
+</ol>
+<blockquote>
+<p>小结</p>
+</blockquote>
+<ul>
+<li>流量窃听和恶意媒介攻击通常是由截取网络流量的恶意服务作用者实施的</li>
+<li>拒绝服务攻击的发生是当目标IT资源由于请求过多而负载过重，这些请求意在使IT资源性能陷入瘫痪或不可用。</li>
+<li>授权不足攻击是指错误的授予了攻击者访问权限或是授权太宽泛，或是使用了弱密码。</li>
+<li>虚拟化攻击利用的是虚拟化环境的漏洞，获得了对底层物理硬件未被授权的访问。</li>
+<li>重叠的信任边界潜藏了一种威胁，攻击者可以利用多个云用户共享的、基于云的IT资源。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>云计算作业</category>
+      </categories>
+      <tags>
+        <tag>第四章-作业2</tag>
       </tags>
   </entry>
 </search>
